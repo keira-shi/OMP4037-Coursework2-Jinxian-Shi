@@ -36,4 +36,4 @@ You can use the video script in the PPT to record a 2-minute explanation. Once r
 
 ## ✍️ Author
 
-Jinxian Shi – Undergraduate Marketing Student | COMP4037 Spring Term
+Jinxian Shi – Undergraduate Computer Science Student | COMP4037 Spring Term
